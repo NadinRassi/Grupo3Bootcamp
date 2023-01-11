@@ -1,0 +1,6 @@
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicio Grupal Clase 2\Grupo3Bootcamp-main\SLNPracticaGrupal\LibEntidades\bin\Debug\LibEntidades.dll
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicio Grupal Clase 2\Grupo3Bootcamp-main\SLNPracticaGrupal\LibEntidades\bin\Debug\LibEntidades.pdb
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicio Grupal Clase 2\Grupo3Bootcamp-main\SLNPracticaGrupal\LibEntidades\obj\Debug\LibEntidades.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicio Grupal Clase 2\Grupo3Bootcamp-main\SLNPracticaGrupal\LibEntidades\obj\Debug\LibEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicio Grupal Clase 2\Grupo3Bootcamp-main\SLNPracticaGrupal\LibEntidades\obj\Debug\LibEntidades.dll
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicio Grupal Clase 2\Grupo3Bootcamp-main\SLNPracticaGrupal\LibEntidades\obj\Debug\LibEntidades.pdb
