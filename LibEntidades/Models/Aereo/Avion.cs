@@ -11,13 +11,17 @@ namespace LibEntidades.Models.BASE
     {
         public Avion() { }
 
-        public Avion(string nombre, string modelo, int anio, int capPasajeros, string modoVuelo, string funcionalidad, string propietario):base(nombre, modelo, anio, capPasajeros, modoVuelo, funcionalidad)
+        public Avion(string nombre, string modelo, int anio, int capPasajeros, string modoVuelo, string funcionalidad, string propietario, string aerolinea):base(nombre, modelo, anio, capPasajeros, modoVuelo, funcionalidad)
         {
 
             Propietario = propietario;
 
+            Aerolinea = aerolinea;
+
         }
 
         public string Propietario { get; set; }
+
+        public string Aerolinea { get; set; }
     }
 }

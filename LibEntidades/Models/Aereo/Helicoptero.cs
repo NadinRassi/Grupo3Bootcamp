@@ -11,13 +11,17 @@ namespace LibEntidades.Models.BASE
     {
         public Helicoptero() { }
 
-        public Helicoptero(string nombre, string modelo, int anio, int capPasajeros, string modoVuelo, string funcionalidad, string tipo) : base(nombre, modelo, anio, capPasajeros, modoVuelo, funcionalidad)
+        public Helicoptero(string nombre, string modelo, int anio, int capPasajeros, string modoVuelo, string funcionalidad, string tipo, string tamanio) : base(nombre, modelo, anio, capPasajeros, modoVuelo, funcionalidad)
         {
 
             Tipo = tipo;
 
+            Tamanio = tamanio;
+
         }
 
         public string Tipo { get; set; }
+
+        public string Tamanio { get; set; }
     }
 }
